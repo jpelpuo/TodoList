@@ -47,8 +47,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="379">
               <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+=======
+            <state relative-caret-position="271">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+>>>>>>> e8bfa9d0342f5b26f6139b84d4812ffe78df774c
             </state>
           </provider>
         </entry>
@@ -223,12 +228,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564226995774</updated>
+<<<<<<< HEAD
       <workItem from="1564227000058" duration="17526000" />
+=======
+      <workItem from="1564227000058" duration="17387000" />
+>>>>>>> e8bfa9d0342f5b26f6139b84d4812ffe78df774c
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="17526000" />
+=======
+    <option name="totallyTimeSpent" value="17387000" />
+>>>>>>> e8bfa9d0342f5b26f6139b84d4812ffe78df774c
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="34" width="1920" height="1046" extended-state="6" />
@@ -236,11 +249,11 @@
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32990867" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32990867" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -358,8 +371,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="379">
           <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+=======
+        <state relative-caret-position="271">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+>>>>>>> e8bfa9d0342f5b26f6139b84d4812ffe78df774c
         </state>
       </provider>
     </entry>
